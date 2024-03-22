@@ -13,7 +13,7 @@ class Mahasiswa{
     }
 }
 
-public class Main {
+public class Class {
     public static void main(String[] args) {
         Mahasiswa mahasiswa1 = new Mahasiswa(); // ini adalah objek
         mahasiswa1.Nama = "Beti";
